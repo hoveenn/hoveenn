@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @hoveenn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Fajar Ramadhan
+- 👀 I’m interested in AI, Photograpghy, Design, UI/UX, Machine Learning, Web Development
+- 🌱 I’m currently learning Progamming Language like Tailwind CSS, React.Js, etc.
+- 💞️ I’m looking to collaborate on a micro / macro massive at Infinite Learning
+- 📫 How to reach me
+- Instagram : framadhqn
 
 <!---
 hoveenn/hoveenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
